@@ -15,10 +15,9 @@
 <br>
 
 ### **_Home Screen_**
-
 <br>
 
-![home_screen](/Images/all_tickets.png)
+![home_screen](Images/all_tickets.png)
 
 <hr>
 
@@ -26,7 +25,7 @@
 
 <br>
 
-![create_ticket](/Images/Create_Ticket.png)
+![create_ticket](Images/Create_Ticket.png)
 
 <hr>
 
@@ -34,7 +33,7 @@
 
 <br>
 
-![edit_ticket](/Images/edit_ticket.png)
+![edit_ticket](Images/edit_ticket.png)
 
 <hr>
 
@@ -42,7 +41,7 @@
 
 <br>
 
-![view_ticket](/Images/View_Ticket.png)
+![view_ticket](Images/View_Ticket.png)
 
 <hr>
 
@@ -50,4 +49,4 @@
 
 <br>
 
-![search_ticket](/Images/Search.png)
+![search_ticket](Images/Search.png)
