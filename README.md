@@ -10,6 +10,16 @@
 
 <hr>
 
+## <u>_Project Functionality Screenshots_</u>
+
+<br>
+
+> [https://drive.google.com/drive/folders/17r-tCkeJvII8tW4noHWvlyIqZAbtP8eq?usp=share_link](https://drive.google.com/drive/folders/17r-tCkeJvII8tW4noHWvlyIqZAbtP8eq?usp=share_link)
+
+<br>
+
+<hr>
+
 ## <u>_Project Functionalilty Snippets_</u>
 
 <br>
